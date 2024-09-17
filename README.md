@@ -2,5 +2,5 @@
 
 ## Game themes
 
--[] ~Guardian~
--[x] This Is The Only Engine
+- [ ] ~Guardian~
+- [x] This Is The Only Engine
